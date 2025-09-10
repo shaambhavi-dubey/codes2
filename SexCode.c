@@ -6,7 +6,7 @@ int main() {
     scanf(" %c",&g);
     printf("enter code for boy");
     scanf(" %c", &b);
-    for(int i=1; i<=5;i++){
+    for(int i=1; i<=10;i++){
         char check;
         printf("enter if boy or girl using your code ");
         scanf(" %c",&check);
